@@ -1,0 +1,68 @@
+.navbar {
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+}
+
+.nav-list {
+  list-style: none;
+  padding: 0;
+}
+
+.nav-item {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.nav-item a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-item a:hover {
+  text-decoration: underline;
+}
+
+body {
+  background-color: #23238e;
+  align-content: center;
+}
+
+h1 {
+  color: white;
+  text-align: left;
+  font-style: oblique;
+  font-size: 100px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-bottom: 10px; /* Adicione esta linha para ajustar o espaçamento entre o título e o parágrafo */
+}
+
+p {
+  color: #00a8ff;
+  text-align: left;
+  font-size: larger;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding-right: 15px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.content {
+  flex: 1;
+}
+
+.gif-container {
+  width: 40%;
+}
+
+.content p {
+  text-align: justify;
+}
+
+.gif-container img {
+  width: 100%;
+  height: auto;
+}
