@@ -34,7 +34,7 @@ h1 {
   font-style: oblique;
   font-size: 100px;
   font-family: 'Montserrat', sans-serif;
-  margin-bottom: 10px; /* Adicione esta linha para ajustar o espaçamento entre o título e o parágrafo */
+  margin-bottom: 30px; /* Adicione esta linha para ajustar o espaçamento entre o título e o parágrafo */
 }
 
 p {
