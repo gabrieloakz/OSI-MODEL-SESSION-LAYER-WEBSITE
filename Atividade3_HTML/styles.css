@@ -66,3 +66,12 @@ p {
   width: 100%;
   height: auto;
 }
+
+.footer { 
+  color: white;
+  text-align: end;
+  text-align-last: center;
+  font-size: larger;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding-top: 5%;
+}
