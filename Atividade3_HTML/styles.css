@@ -24,7 +24,7 @@
 }
 
 body {
-  background-color: #23238e;
+  background-color: #1E3D58;
   align-content: center;
 }
 
@@ -33,7 +33,7 @@ h1 {
   text-align: left;
   font-style: oblique;
   font-size: 100px;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: 'Montserrat', sans-serif;
   margin-bottom: 10px; /* Adicione esta linha para ajustar o espaçamento entre o título e o parágrafo */
 }
 
@@ -41,7 +41,7 @@ p {
   color: white;
   text-align: left;
   font-size: larger;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: 'Montserrat', sans-serif;
   padding-right: 15px;
 }
 
@@ -71,7 +71,7 @@ p {
   color: white;
   text-align: end;
   text-align-last: center;
-  font-size: larger;
-  font-family: Georgia, "Times New Roman", Times, serif;
-  padding-top: 5%;
+  font-size: small;
+  font-family: 'Montserrat', sans-serif;
+  
 }
